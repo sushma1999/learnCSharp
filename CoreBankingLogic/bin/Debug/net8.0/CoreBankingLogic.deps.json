@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CoreBankingLogic/1.0.0": {
+        "runtime": {
+          "CoreBankingLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreBankingLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

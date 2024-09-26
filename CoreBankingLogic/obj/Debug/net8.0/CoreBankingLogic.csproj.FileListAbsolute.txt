@@ -1,0 +1,12 @@
+D:\SushmaInterview2024\CoreBankingLogic\bin\Debug\net8.0\CoreBankingLogic.deps.json
+D:\SushmaInterview2024\CoreBankingLogic\bin\Debug\net8.0\CoreBankingLogic.dll
+D:\SushmaInterview2024\CoreBankingLogic\bin\Debug\net8.0\CoreBankingLogic.pdb
+D:\SushmaInterview2024\CoreBankingLogic\obj\Debug\net8.0\CoreBankingLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\SushmaInterview2024\CoreBankingLogic\obj\Debug\net8.0\CoreBankingLogic.AssemblyInfoInputs.cache
+D:\SushmaInterview2024\CoreBankingLogic\obj\Debug\net8.0\CoreBankingLogic.AssemblyInfo.cs
+D:\SushmaInterview2024\CoreBankingLogic\obj\Debug\net8.0\CoreBankingLogic.csproj.CoreCompileInputs.cache
+D:\SushmaInterview2024\CoreBankingLogic\obj\Debug\net8.0\CoreBankingLogic.sourcelink.json
+D:\SushmaInterview2024\CoreBankingLogic\obj\Debug\net8.0\CoreBankingLogic.dll
+D:\SushmaInterview2024\CoreBankingLogic\obj\Debug\net8.0\refint\CoreBankingLogic.dll
+D:\SushmaInterview2024\CoreBankingLogic\obj\Debug\net8.0\CoreBankingLogic.pdb
+D:\SushmaInterview2024\CoreBankingLogic\obj\Debug\net8.0\ref\CoreBankingLogic.dll

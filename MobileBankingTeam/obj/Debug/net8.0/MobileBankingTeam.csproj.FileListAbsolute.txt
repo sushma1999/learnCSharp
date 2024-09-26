@@ -1,0 +1,16 @@
+D:\SushmaInterview2024\MobileBankingTeam\bin\Debug\net8.0\MobileBankingTeam.deps.json
+D:\SushmaInterview2024\MobileBankingTeam\bin\Debug\net8.0\MobileBankingTeam.dll
+D:\SushmaInterview2024\MobileBankingTeam\bin\Debug\net8.0\MobileBankingTeam.pdb
+D:\SushmaInterview2024\MobileBankingTeam\bin\Debug\net8.0\CoreBankingLogic.dll
+D:\SushmaInterview2024\MobileBankingTeam\bin\Debug\net8.0\CoreBankingLogic.pdb
+D:\SushmaInterview2024\MobileBankingTeam\obj\Debug\net8.0\MobileBankingTeam.csproj.AssemblyReference.cache
+D:\SushmaInterview2024\MobileBankingTeam\obj\Debug\net8.0\MobileBankingTeam.GeneratedMSBuildEditorConfig.editorconfig
+D:\SushmaInterview2024\MobileBankingTeam\obj\Debug\net8.0\MobileBankingTeam.AssemblyInfoInputs.cache
+D:\SushmaInterview2024\MobileBankingTeam\obj\Debug\net8.0\MobileBankingTeam.AssemblyInfo.cs
+D:\SushmaInterview2024\MobileBankingTeam\obj\Debug\net8.0\MobileBankingTeam.csproj.CoreCompileInputs.cache
+D:\SushmaInterview2024\MobileBankingTeam\obj\Debug\net8.0\MobileBankingTeam.sourcelink.json
+D:\SushmaInterview2024\MobileBankingTeam\obj\Debug\net8.0\MobileBa.2DE1D6C9.Up2Date
+D:\SushmaInterview2024\MobileBankingTeam\obj\Debug\net8.0\MobileBankingTeam.dll
+D:\SushmaInterview2024\MobileBankingTeam\obj\Debug\net8.0\refint\MobileBankingTeam.dll
+D:\SushmaInterview2024\MobileBankingTeam\obj\Debug\net8.0\MobileBankingTeam.pdb
+D:\SushmaInterview2024\MobileBankingTeam\obj\Debug\net8.0\ref\MobileBankingTeam.dll

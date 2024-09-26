@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OnlineBankingConsoleApp/1.0.0": {
+        "dependencies": {
+          "OnlineBankingLib": "1.0.0"
+        },
+        "runtime": {
+          "OnlineBankingConsoleApp.dll": {}
+        }
+      },
+      "OnlineBankingLib/1.0.0": {
+        "runtime": {
+          "OnlineBankingLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineBankingConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OnlineBankingLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

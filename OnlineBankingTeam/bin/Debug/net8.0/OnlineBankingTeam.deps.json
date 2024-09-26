@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OnlineBankingTeam/1.0.0": {
+        "dependencies": {
+          "CoreBankingLogic": "1.0.0"
+        },
+        "runtime": {
+          "OnlineBankingTeam.dll": {}
+        }
+      },
+      "CoreBankingLogic/1.0.0": {
+        "runtime": {
+          "CoreBankingLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineBankingTeam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreBankingLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

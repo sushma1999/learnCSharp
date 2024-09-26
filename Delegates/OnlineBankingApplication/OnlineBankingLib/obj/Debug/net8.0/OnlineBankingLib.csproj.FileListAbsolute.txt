@@ -1,0 +1,12 @@
+D:\SushmaInterview2024\Delegates\OnlineBankingApplication\OnlineBankingLib\bin\Debug\net8.0\OnlineBankingLib.deps.json
+D:\SushmaInterview2024\Delegates\OnlineBankingApplication\OnlineBankingLib\bin\Debug\net8.0\OnlineBankingLib.dll
+D:\SushmaInterview2024\Delegates\OnlineBankingApplication\OnlineBankingLib\bin\Debug\net8.0\OnlineBankingLib.pdb
+D:\SushmaInterview2024\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\OnlineBankingLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\SushmaInterview2024\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\OnlineBankingLib.AssemblyInfoInputs.cache
+D:\SushmaInterview2024\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\OnlineBankingLib.AssemblyInfo.cs
+D:\SushmaInterview2024\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\OnlineBankingLib.csproj.CoreCompileInputs.cache
+D:\SushmaInterview2024\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\OnlineBankingLib.sourcelink.json
+D:\SushmaInterview2024\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\OnlineBankingLib.dll
+D:\SushmaInterview2024\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\refint\OnlineBankingLib.dll
+D:\SushmaInterview2024\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\OnlineBankingLib.pdb
+D:\SushmaInterview2024\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\ref\OnlineBankingLib.dll
