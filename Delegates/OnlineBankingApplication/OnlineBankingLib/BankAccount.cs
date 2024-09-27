@@ -1,7 +1,9 @@
 public class BankAccount
 {
+    public event Action<string,decimal> WarningMessage;
     public string AccountNumber { get; }
     public decimal Balance { get; private set; }
+
 
     // An event for handling deposits
     public event TransactionHandler DepositMade;
@@ -32,6 +34,7 @@ public class BankAccount
             Balance -= amount;
             // Raise the WithdrawalMade event
             WithdrawalMade?.Invoke(AccountNumber, amount);
+            WarningMessage?.Invoke(AccountNumber,amount);
             if (Balance < 1000)
             {
                 MinimumBalanceExhausted?.Invoke(AccountNumber, Balance);

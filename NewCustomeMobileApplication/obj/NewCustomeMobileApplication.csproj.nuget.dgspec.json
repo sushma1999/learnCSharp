@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SushmaInterview2024\\NewCustomeMobileApplication\\NewCustomeMobileApplication.csproj": {}
+    "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\NewCustomeMobileApplication\\NewCustomeMobileApplication.csproj": {}
   },
   "projects": {
-    "D:\\SushmaInterview2024\\CoreBankingLogic\\CoreBankingLogic.csproj": {
+    "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\CoreBankingLogic\\CoreBankingLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SushmaInterview2024\\CoreBankingLogic\\CoreBankingLogic.csproj",
+        "projectUniqueName": "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\CoreBankingLogic\\CoreBankingLogic.csproj",
         "projectName": "CoreBankingLogic",
-        "projectPath": "D:\\SushmaInterview2024\\CoreBankingLogic\\CoreBankingLogic.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\SushmaInterview2024\\CoreBankingLogic\\obj\\",
+        "projectPath": "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\CoreBankingLogic\\CoreBankingLogic.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\CoreBankingLogic\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,30 +69,37 @@
         }
       }
     },
-    "D:\\SushmaInterview2024\\NewCustomeMobileApplication\\NewCustomeMobileApplication.csproj": {
+    "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\NewCustomeMobileApplication\\NewCustomeMobileApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SushmaInterview2024\\NewCustomeMobileApplication\\NewCustomeMobileApplication.csproj",
+        "projectUniqueName": "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\NewCustomeMobileApplication\\NewCustomeMobileApplication.csproj",
         "projectName": "NewCustomeMobileApplication",
-        "projectPath": "D:\\SushmaInterview2024\\NewCustomeMobileApplication\\NewCustomeMobileApplication.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\SushmaInterview2024\\NewCustomeMobileApplication\\obj\\",
+        "projectPath": "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\NewCustomeMobileApplication\\NewCustomeMobileApplication.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\NewCustomeMobileApplication\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\SushmaInterview2024\\CoreBankingLogic\\CoreBankingLogic.csproj": {
-                "projectPath": "D:\\SushmaInterview2024\\CoreBankingLogic\\CoreBankingLogic.csproj"
+              "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\CoreBankingLogic\\CoreBankingLogic.csproj": {
+                "projectPath": "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\CoreBankingLogic\\CoreBankingLogic.csproj"
               }
             }
           }

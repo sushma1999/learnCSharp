@@ -23,6 +23,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreBankingLogic", "CoreBan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewCustomeMobileApplication", "NewCustomeMobileApplication\NewCustomeMobileApplication.csproj", "{1426F94C-D494-40C5-A3E2-58FFA2F8BB58}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Delegates", "Delegates", "{F932E155-EE64-4D67-9A9C-CB7ACB96E9CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineBankingLib", "Delegates\OnlineBankingApplication\OnlineBankingLib\OnlineBankingLib.csproj", "{22FF4403-8FD0-4031-9729-EA97AA0EF2CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineBankingConsoleApp", "Delegates\OnlineBankingApplication\OnlineBankingConsoleApp\OnlineBankingConsoleApp.csproj", "{9417EFAD-BF76-491A-969B-724E23C7C88D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileBankingApplication", "Delegates\MobileBankingApplication\MobileBankingApplication\MobileBankingApplication.csproj", "{7C6CEE33-53A2-44AE-8AC3-2BB0C03C6F9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,8 +77,25 @@ Global
 		{1426F94C-D494-40C5-A3E2-58FFA2F8BB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1426F94C-D494-40C5-A3E2-58FFA2F8BB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1426F94C-D494-40C5-A3E2-58FFA2F8BB58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22FF4403-8FD0-4031-9729-EA97AA0EF2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FF4403-8FD0-4031-9729-EA97AA0EF2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FF4403-8FD0-4031-9729-EA97AA0EF2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FF4403-8FD0-4031-9729-EA97AA0EF2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9417EFAD-BF76-491A-969B-724E23C7C88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9417EFAD-BF76-491A-969B-724E23C7C88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9417EFAD-BF76-491A-969B-724E23C7C88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9417EFAD-BF76-491A-969B-724E23C7C88D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C6CEE33-53A2-44AE-8AC3-2BB0C03C6F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6CEE33-53A2-44AE-8AC3-2BB0C03C6F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6CEE33-53A2-44AE-8AC3-2BB0C03C6F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6CEE33-53A2-44AE-8AC3-2BB0C03C6F9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{22FF4403-8FD0-4031-9729-EA97AA0EF2CB} = {F932E155-EE64-4D67-9A9C-CB7ACB96E9CA}
+		{9417EFAD-BF76-491A-969B-724E23C7C88D} = {F932E155-EE64-4D67-9A9C-CB7ACB96E9CA}
+		{7C6CEE33-53A2-44AE-8AC3-2BB0C03C6F9B} = {F932E155-EE64-4D67-9A9C-CB7ACB96E9CA}
 	EndGlobalSection
 EndGlobal

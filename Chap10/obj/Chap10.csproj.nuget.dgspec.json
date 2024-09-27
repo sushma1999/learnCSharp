@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\InterviewPrep2024\\GIT\\CSharp_Training\\SushmaInterview2024\\Chap10\\Chap10.csproj": {}
+    "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\Chap10\\Chap10.csproj": {}
   },
   "projects": {
-    "C:\\InterviewPrep2024\\GIT\\CSharp_Training\\SushmaInterview2024\\Chap10\\Chap10.csproj": {
+    "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\Chap10\\Chap10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\InterviewPrep2024\\GIT\\CSharp_Training\\SushmaInterview2024\\Chap10\\Chap10.csproj",
+        "projectUniqueName": "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\Chap10\\Chap10.csproj",
         "projectName": "Chap10",
-        "projectPath": "C:\\InterviewPrep2024\\GIT\\CSharp_Training\\SushmaInterview2024\\Chap10\\Chap10.csproj",
+        "projectPath": "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\Chap10\\Chap10.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\InterviewPrep2024\\GIT\\CSharp_Training\\SushmaInterview2024\\Chap10\\obj\\",
+        "outputPath": "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\Chap10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

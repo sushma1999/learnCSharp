@@ -10,3 +10,15 @@ D:\SushmaInterview2024\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\D
 D:\SushmaInterview2024\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\refint\OnlineBankingLib.dll
 D:\SushmaInterview2024\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\OnlineBankingLib.pdb
 D:\SushmaInterview2024\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\ref\OnlineBankingLib.dll
+C:\InterviewPrep2024\GIT\LearnC#\learnCSharp\Delegates\OnlineBankingApplication\OnlineBankingLib\bin\Debug\net8.0\OnlineBankingLib.deps.json
+C:\InterviewPrep2024\GIT\LearnC#\learnCSharp\Delegates\OnlineBankingApplication\OnlineBankingLib\bin\Debug\net8.0\OnlineBankingLib.dll
+C:\InterviewPrep2024\GIT\LearnC#\learnCSharp\Delegates\OnlineBankingApplication\OnlineBankingLib\bin\Debug\net8.0\OnlineBankingLib.pdb
+C:\InterviewPrep2024\GIT\LearnC#\learnCSharp\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\OnlineBankingLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\InterviewPrep2024\GIT\LearnC#\learnCSharp\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\OnlineBankingLib.AssemblyInfoInputs.cache
+C:\InterviewPrep2024\GIT\LearnC#\learnCSharp\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\OnlineBankingLib.AssemblyInfo.cs
+C:\InterviewPrep2024\GIT\LearnC#\learnCSharp\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\OnlineBankingLib.csproj.CoreCompileInputs.cache
+C:\InterviewPrep2024\GIT\LearnC#\learnCSharp\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\OnlineBankingLib.sourcelink.json
+C:\InterviewPrep2024\GIT\LearnC#\learnCSharp\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\OnlineBankingLib.dll
+C:\InterviewPrep2024\GIT\LearnC#\learnCSharp\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\refint\OnlineBankingLib.dll
+C:\InterviewPrep2024\GIT\LearnC#\learnCSharp\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\OnlineBankingLib.pdb
+C:\InterviewPrep2024\GIT\LearnC#\learnCSharp\Delegates\OnlineBankingApplication\OnlineBankingLib\obj\Debug\net8.0\ref\OnlineBankingLib.dll

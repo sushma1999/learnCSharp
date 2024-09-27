@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SushmaInterview2024\\Chap4\\Chap4.csproj": {}
+    "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\Chap4\\Chap4.csproj": {}
   },
   "projects": {
-    "D:\\SushmaInterview2024\\Chap4\\Chap4.csproj": {
+    "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\Chap4\\Chap4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SushmaInterview2024\\Chap4\\Chap4.csproj",
+        "projectUniqueName": "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\Chap4\\Chap4.csproj",
         "projectName": "Chap4",
-        "projectPath": "D:\\SushmaInterview2024\\Chap4\\Chap4.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\SushmaInterview2024\\Chap4\\obj\\",
+        "projectPath": "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\Chap4\\Chap4.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\InterviewPrep2024\\GIT\\LearnC#\\learnCSharp\\Chap4\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
