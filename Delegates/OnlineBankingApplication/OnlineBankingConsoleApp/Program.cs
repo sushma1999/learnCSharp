@@ -14,17 +14,23 @@ internal class Program
             Console.WriteLine($"Insufficient funds in account {accountNumber} to withdraw {amount:C}");
         };
 
+        Predicate<decimal> HaveBalanceMethod = (balance) => account.Balance > 0 ;
+        Func<string, string> EnterPintoWithdrawMethod = (pin) => pin;
+        
+        // bool check = HaveBalanceMethod(account.Balance);
+        // Console.WriteLine($"Do you have amount in your account ?",check);
+
         // Subscribe the logger to the bank account's events
         account.DepositMade += logger.LogDeposit;
         account.WithdrawalMade += logger.LogWithdrawal;
         account.WarningMessage += warningMessageMethod;
+        account.HaveBalance += HaveBalanceMethod;
+        account.EnterPintoWithdraw +=EnterPintoWithdrawMethod;
 
-//create a action delegate to print warning message when account has insufficient funds and subscribe it to the event withdrawalMade
-       
 
         // Perform some transactions
         account.Deposit(500);
-        account.Withdraw(200);
-        account.Withdraw(700); // Should trigger insufficient funds message
+        account.Withdraw(1500,"2024");
+        account.Withdraw(100,"2024"); // Should trigger insufficient funds message
     }
 }
