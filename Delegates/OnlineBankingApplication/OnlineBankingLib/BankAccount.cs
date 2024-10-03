@@ -2,11 +2,9 @@ public class BankAccount
 {
     public event Action<string,decimal> WarningMessage;
     public event Predicate<decimal> HaveBalance;
-    public event Func<string,string> EnterPintoWithdraw;
+    public event Func<string,string,bool> EnterPintoWithdraw;
     public string AccountNumber { get; }
     public decimal Balance { get; private set; }
-    public string originalPasscode ="2024";
-
 
     // An event for handling deposits
     public event TransactionHandler DepositMade;
@@ -20,6 +18,7 @@ public class BankAccount
     {
         AccountNumber = accountNumber;
         Balance = initialBalance;
+        //InputPasscode = inputPasscode;
     }
 
     public void Deposit(decimal amount)
@@ -31,10 +30,10 @@ public class BankAccount
         
     }
 
-    public void Withdraw(decimal amount,string pin)
+    public void Withdraw(decimal amount, string originalPasscode, string InputPasscode )
     {
-        var pinNo = EnterPintoWithdraw.Invoke(pin); // didnt make it nullable
-        if (pinNo.Equals(originalPasscode))
+        var IsPinValid =  EnterPintoWithdraw?.Invoke(originalPasscode,InputPasscode)?? false;
+        if (IsPinValid)
         {       
             Console.WriteLine($"Pin is verified");
             var haveBalance = HaveBalance?.Invoke(amount);
